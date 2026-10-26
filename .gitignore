@@ -1,0 +1,11 @@
+# kbuild output
+*.o
+*.ko
+*.mod
+*.mod.c
+.*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+# user programs
+bin/
